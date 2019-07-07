@@ -5,4 +5,7 @@ Test graphql using NodeJs
 npm install graphql express express-graphql --save  
   
 # to run:  
-node graphql-server.js  
+node graphql-server.js 
+open browser to address: http://localhost:4000/graphql 
+try queires located in file test.txt 
+
